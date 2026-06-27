@@ -20,10 +20,10 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 ## 💳 Certificado
 
 <p align="center">
-  <img src="" alt="" width="500" hspace="10">
+  <img src=""C:\Users\Gustavo\Downloads\Captura de ecrã_26-6-2026_222025_.jpeg"" alt="" width="500" hspace="10">
 </p>
 
-🔗 [Ver certificados oficial]("C:\Users\Gustavo\Downloads\Captura de ecrã_26-6-2026_222025_.jpeg")
+🔗 [Ver certificados oficial]("")
 
 ---
 
